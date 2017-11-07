@@ -145,10 +145,12 @@ const Button = ({
     },
     linkStyle: {
       background: 'none',
+      backgroundColor: 'unset',
+      borderRadius: 'unset',
       border: 'none',
       color: curiousBlue,
       padding: 0,
-      display: 'inline-block',
+      display: 'block',
       margin: '0 auto',
     },
     focused: {
