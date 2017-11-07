@@ -30,9 +30,10 @@
     }
   },
   "devDependencies": {
-    "@storybook/addon-storyshots": "3.1.2",
-    "@storybook/react": "3.2.13",
+    "@storybook/addon-storyshots": "3.2.14",
+    "@storybook/react": "3.2.14",
     "@storybook/storybook-deployer": "2.0.0",
+    "@storybook/channels": "3.2.14",
     "@storybook/addon-actions": "3.1.2",
     "axe-core": "^2.2.0",
     "babel-eslint": "8.0.1",
